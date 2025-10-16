@@ -58,9 +58,9 @@ As the Data Analyst, I:
 ![Dashboard Overview](https://github.com/Shivam4410/Business-Insights-360-Data-Analysis-Project/blob/main/Sales%20View.png)
 
 ### 📣 Marketing View
-- Market Performance is visualized on a scatter plot, showing Net Profit % across different markets (countries).
+- Market Performance is visualized on a scatter plot, showing Gross Margin % across different product segments.
 - A table provides a detailed view of Net Sales, Gross Margin, and Net Profit for various countries and segments. 
-- A Net Sales & Gross Margin Bifurcation chart shows the relationship between Gross Margin, Operational Expense, and Net Profit
+- Unit Economics are detailed in a donut chart & Gross Margin Bifurcation chart shows the relationship between Gross Margin, Operational Expense, and Net Profit
 
 ![Dashboard Overview](https://github.com/Shivam4410/Business-Insights-360-Data-Analysis-Project/blob/main/Marketing%20View.png)
 
@@ -75,7 +75,7 @@ As the Data Analyst, I:
 - A high-level summary of all key metrics including Net Sales, GM%, NP%, and Forecast Accuracy.
 - Trends over time for revenue contribution, GM%, and NP% are displayed on line and bar charts. 
 - Tables provide a quick look at the Top 5 Customers & Products based on revenue contribution and Gross Margin.
-- Sub-region performance is summarized in a single table, showing a quick comparison of financial health and risk across different geographic areas.
+- Sub-zone performance is summarized in a single table, showing a quick comparison of financial health and risk across different geographic areas.
 
 ![Dashboard Overview](https://github.com/Shivam4410/Business-Insights-360-Data-Analysis-Project/blob/main/Executive%20View.png)
 
