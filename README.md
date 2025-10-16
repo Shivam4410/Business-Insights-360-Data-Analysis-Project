@@ -13,6 +13,12 @@ This project demonstrates how I, as a **Data Analyst**, built an **end-to-end BI
 
 ---
 
+## 🔗 Links
+
+- **[Live Dashboard](https://app.powerbi.com/groups/85397cd7-83c0-4296-a742-11b956067105/reports/3ad8a8e0-a653-4217-a837-66db462d5b7e/ReportSection3e6d270a5b20870d7cd8?experience=power-bi)**
+
+---
+
 ## 🟡 Problem Statement
 
 - AtliQ relied heavily on assumptions for business expansion.  
