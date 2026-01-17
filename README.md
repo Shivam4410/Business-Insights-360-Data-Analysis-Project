@@ -15,7 +15,7 @@ This project demonstrates how I, as a **Data Analyst**, built an **end-to-end BI
 
 ## 🔗 Links
 
-- **[Live Dashboard](https://app.powerbi.com/groups/85397cd7-83c0-4296-a742-11b956067105/reports/3ad8a8e0-a653-4217-a837-66db462d5b7e/ReportSection3e6d270a5b20870d7cd8?experience=power-bi)**
+- **[Live Dashboard](https://app.powerbi.com/groups/a979809a-742e-4e9f-a30c-391fc9cd0f1c/reports/eff5a2b5-e235-4682-baf6-7acaea4aa075/ReportSection3e6d270a5b20870d7cd8?experience=power-bi)**
 
 ---
 
@@ -48,28 +48,28 @@ As the Data Analyst, I:
 - A Profit & Loss Statement provides a detailed breakdown of revenues, costs, and profits.
 - A chart highlights the Top/Bottom Customers & Products based on net sales.
   
-![Dashboard Overview](https://github.com/Shivam4410/Business-Insights-360-Data-Analysis-Project/blob/main/Finance%20View.png)
+![Dashboard Overview](https://github.com/Shivam4410/Business-Insights-360-Data-Analysis-Project/blob/main/Finance_View.png)
 
 ### 🤝 Sales View
 - A Performance Matrix plots Gross Margin against Net Sales for different stores and regions.
 - The Customer Performance table shows Net Sales (),GrossMargin(), and GM% for individual customers.
 - Unit Economics are detailed in a donut chart, breaking down total COGS (Cost of Goods Sold), Gross Margin, and Net Sales. 
 
-![Dashboard Overview](https://github.com/Shivam4410/Business-Insights-360-Data-Analysis-Project/blob/main/Sales%20View.png)
+![Dashboard Overview](https://github.com/Shivam4410/Business-Insights-360-Data-Analysis-Project/blob/main/Sales_View.png)
 
 ### 📣 Marketing View
 - Market Performance is visualized on a scatter plot, showing Gross Margin % across different product segments.
 - A table provides a detailed view of Net Sales, Gross Margin, and Net Profit for various countries and segments. 
 - Unit Economics are detailed in a donut chart & Gross Margin Bifurcation chart shows the relationship between Gross Margin, Operational Expense, and Net Profit
 
-![Dashboard Overview](https://github.com/Shivam4410/Business-Insights-360-Data-Analysis-Project/blob/main/Marketing%20View.png)
+![Dashboard Overview](https://github.com/Shivam4410/Business-Insights-360-Data-Analysis-Project/blob/main/Marketing_View.png)
 
 ### ⛓️ Supply Chain View
 - Forecast Accuracy and Net Error are the main metrics, with a trend chart showing performance over time.
 - Key Metrics by Customer and by Product tables show forecast accuracy (FCA), net error, and a risk assessment (e.g., Excess Inventory or Out-of-Stock).  
 - The data helps in identifying inventory issues and optimizing supply chain operations.
 
-![Dashboard Overview](https://github.com/Shivam4410/Business-Insights-360-Data-Analysis-Project/blob/main/Supply%20Chain%20View.png)
+![Dashboard Overview](https://github.com/Shivam4410/Business-Insights-360-Data-Analysis-Project/blob/main/Supply_Chain_View.png)
 
 ### 🧑‍💼 Executive View
 - A high-level summary of all key metrics including Net Sales, GM%, NP%, and Forecast Accuracy.
@@ -77,7 +77,7 @@ As the Data Analyst, I:
 - Tables provide a quick look at the Top 5 Customers & Products based on revenue contribution and Gross Margin.
 - Sub-zone performance is summarized in a single table, showing a quick comparison of financial health and risk across different geographic areas.
 
-![Dashboard Overview](https://github.com/Shivam4410/Business-Insights-360-Data-Analysis-Project/blob/main/Executive%20View.png)
+![Dashboard Overview](https://github.com/Shivam4410/Business-Insights-360-Data-Analysis-Project/blob/main/Executive_View.png)
 
 ---
 
